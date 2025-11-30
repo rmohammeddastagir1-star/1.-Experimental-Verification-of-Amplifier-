@@ -1,5 +1,6 @@
-#**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
-**DATE:**  
+## **EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
+
+## **DATE:**  09-08-2025 
 ---
 
 ## AIM
@@ -95,7 +96,8 @@ Inverting amplifier:
 
 
 ---
-### **Non-Inverting Amplifier**
+### **Non-Inverting Amplifier** 
+## **DATE:** 19-08-2025
 
 If the signal is applied to the non-inverting input terminal without inversion, it is called a **non-inverting amplifier**.  
 Here, the output is fed back to the inverting terminal, and **no phase shift** occurs.
@@ -142,7 +144,7 @@ PROCEDURE:
 
 ---
 ## DIFFERENTIAL AMPLIFIER
-
+## **DATE:** 23-08-2025
 A circuit that amplifies the **difference** between two input signals is called a **Differential Amplifier**.  
 It is useful in instrumentation applications.  
 If the two input signals are identical, the output is ideally **zero**.
@@ -198,7 +200,7 @@ Choose  R1 = 1.5kOhm, Rf = 15kOhm
 
 ---
 ## INSTRUMENTATION AMPLIFIER
-
+## **DATE:** 28-10-2025
 THEORY:
 
 An instrumentation amplifier is the intermediate stage of a instrumentation system. The signal source of the instrumentation amplifier is the output of the transducer. Many transducers output do not have the ability or sufficient strength to drive the next following stages. Therefore, instrumentation amplifiers are used to amplify the low-level output signal of the transducer so that it can drive the following stages such as indicator or displays.
