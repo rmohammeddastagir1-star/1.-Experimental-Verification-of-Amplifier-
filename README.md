@@ -71,6 +71,7 @@ A = -Rf/R1
 Take  A = 10
 Rf =10 R1
 Choose R1 = 1.5kΩ, Rf=15kΩ
+![WhatsApp Image 2025-12-03 at 13 12 35_89b8b854](https://github.com/user-attachments/assets/75ca2502-d09f-4d07-aa5f-435614412b34)
 
 PROCEDURE:
 Inverting amplifier:
@@ -121,6 +122,8 @@ ACL = 1 + RF/R1 RF = 15kohms R1 = 2kohms
 <img width="456" height="340" alt="image" src="https://github.com/user-attachments/assets/00c7aaec-b4d8-414e-afa3-e985eb3dd902" />
 
 ---
+DESIGN:
+![WhatsApp Image 2025-12-03 at 13 13 46_a1212450](https://github.com/user-attachments/assets/61c88c3c-3140-45b0-aab9-d7a827aa32ca)
 PROCEDURE:
 ### **For  Non-Inverting Amplifier**
 1. Select R1  as a constant value and choose a value for Rf .  
@@ -162,6 +165,7 @@ A = Vo/{V2 - V1} = -Rf/R1
 ---
 
 ## DESIGN
+![WhatsApp Image 2025-12-03 at 13 14 21_722c6d67](https://github.com/user-attachments/assets/fda6b34e-e1bb-43fc-82ba-aeeb355adb20)
 
 
 ### **Differential Amplifier**
@@ -213,6 +217,8 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 ![WhatsApp Image 2025-11-30 at 15 18 58_76cb9498](https://github.com/user-attachments/assets/ed719538-1513-4ec1-9ca6-f03f2287a1e1)
 
 
+DESIGN :
+![WhatsApp Image 2025-12-03 at 13 16 45_08ab5db4](https://github.com/user-attachments/assets/ac5d2077-8c85-49ac-8113-4722725ce661)
 
 PROCEDURE:
 
